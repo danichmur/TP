@@ -1,7 +1,10 @@
+//: Playground - noun: a place where people can play
 
-func kilocalories(fats: Double, proteins: Double, carbohydrates:Double) -> Double {
-    return 4 * (carbohydrates + proteins) + 9 * fats
-    
+import Cocoa
+
+
+var array:[String] = ["A", "V", "G"]
+
+for string in array{
+    print(string)
 }
-
-print("kilocalories == \(kilocalories(fats: 20,proteins: 15,carbohydrates: 32))")
