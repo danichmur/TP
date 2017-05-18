@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "ac2d7ca89bc14b367f2538a2223e18e1"
+build_time: [548261485, 3050000]
+inputs:
+  "/Users/danielmuraveyko/Google Drive/Xcode/Lab8.4/DMCollectionViewCell.swift": [548242259, 0]
+  "/Users/danielmuraveyko/Google Drive/Xcode/Lab8.4/Lab8.4/BookViewController.swift": [548261460, 0]
+  "/Users/danielmuraveyko/Google Drive/Xcode/Lab8.4/Lab8.4/ViewController.swift": [548261484, 0]
+  "/Users/danielmuraveyko/Google Drive/Xcode/Lab8.4/Lab8.4/AppDelegate.swift": [548201246, 0]

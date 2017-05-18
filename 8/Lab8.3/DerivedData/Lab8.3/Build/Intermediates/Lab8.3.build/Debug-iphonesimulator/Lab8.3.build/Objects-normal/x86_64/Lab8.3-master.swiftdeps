@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "c3fd9d4696f8d397b1925c2590c64b07"
+build_time: [548447301, 878080000]
+inputs:
+  "/Users/danielmuraveyko/Google Drive/Xcode/Lab8.3/Lab8.3/ViewController.swift": [548200512, 0]
+  "/Users/danielmuraveyko/Google Drive/Xcode/Lab8.3/Lab8.3/AppDelegate.swift": [548195498, 0]
+  "/Users/danielmuraveyko/Google Drive/Xcode/Lab8.3/DerivedData/Lab8.3/Build/Intermediates/Lab8.3.build/Debug-iphonesimulator/Lab8.3.build/DerivedSources/CoreDataGenerated/Lab8_3/Students+CoreDataClass.swift": [548190858, 0]
+  "/Users/danielmuraveyko/Google Drive/Xcode/Lab8.3/DerivedData/Lab8.3/Build/Intermediates/Lab8.3.build/Debug-iphonesimulator/Lab8.3.build/DerivedSources/CoreDataGenerated/Lab8_3/Students+CoreDataProperties.swift": [548190858, 0]
+  "/Users/danielmuraveyko/Google Drive/Xcode/Lab8.3/DerivedData/Lab8.3/Build/Intermediates/Lab8.3.build/Debug-iphonesimulator/Lab8.3.build/DerivedSources/CoreDataGenerated/Lab8_3/Lab8_3+CoreDataModel.swift": [548190858, 0]
