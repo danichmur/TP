@@ -2,8 +2,8 @@
 //  FlightViewController.h
 //  Lab8_1_1
 //
-//  Created by Admin on 07.05.17.
-//  Copyright (c) 2017 Yury Struchkou. All rights reserved.
+//  Created by Daniel Muraveyko on 16/05/2017.
+//  Copyright © 2017 Daniel Muraveyko. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
